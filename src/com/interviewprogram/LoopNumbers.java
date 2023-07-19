@@ -20,6 +20,7 @@ public class LoopNumbers {
 			}
 		}
 		//System.out.println();
+		System.out.println();
 	}
 
 }
